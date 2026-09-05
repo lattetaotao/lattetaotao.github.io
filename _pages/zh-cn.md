@@ -7,7 +7,7 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-我是 **Tao Wang（王涛）**，马来亚大学机械工程博士毕业生。我的研究聚焦于非线性时间序列分析、熵特征提取与智能故障诊断，已发表 5 篇以上论文。更多成果请参阅我的 <a href="https://scholar.google.com/citations?user=TvivfDYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar 主页</a>。博士期间由 <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Ong Zhi Chao 教授</a></highlight>、<highlight><a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Khoo Shin Yee 博士</a></highlight>和 <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Siow Pei Yi 博士</a></highlight>共同指导。我是马来亚大学机械工程系 <highlight><a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration Research (ASVR) Group</a></highlight> 成员。
+我是 **Tao Wang（王桃）**，马来亚大学机械工程博士毕业生。我的研究聚焦于非线性时间序列分析、熵特征提取与智能故障诊断，已发表 5 篇以上论文。更多成果请参阅我的 <a href="https://scholar.google.com/citations?user=TvivfDYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar 主页</a>。博士期间由 <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Ong Zhi Chao 教授</a></highlight>、<highlight><a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Khoo Shin Yee 博士</a></highlight>和 <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Siow Pei Yi 博士</a></highlight>共同指导。我是马来亚大学机械工程系 <highlight><a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration Research (ASVR) Group</a></highlight> 成员。
 
 研究方向包括：
 - 非线性时间序列分析
