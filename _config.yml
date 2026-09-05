@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tao Wang"
 description              : "Always and Forever"
-repository               : "GeneAihub/GeneAihub.github.io"
+repository               : "lattetaotao/lattetaotao.github.io"
 google_scholar_stats_use_cdn : True
 
 # google analytics
@@ -27,10 +27,10 @@ author:
   location         : "Kuala Lumpur, Malaysia"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           :
-  googlescholar1    : "https://scholar.google.com/citations?user=DmN2rEYAAAAJ"
+  googlescholar1    : "https://scholar.google.com/citations?user=TvivfDYAAAAJ&hl=en&oi=sra"
 
   email            : "/contact.html"
-  researchgate     : "https://www.researchgate.net/profile/Wang-Teng-22/research"
+  researchgate     :
   uri              : 
   bitbucket        :
   codepen          :
@@ -38,21 +38,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GeneAIhub"
+  github           : "lattetaotao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "teng-wang-625554305"# e.g., "linkedin username"
+  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-6708-2125"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "steven_wan57645"
+  twitter          :
   vine             :
   weibo            :
   xing             :
