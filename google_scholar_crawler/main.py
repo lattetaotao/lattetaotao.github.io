@@ -18,8 +18,8 @@ def fetch_all_scholar_data(scholar_id: str, api_key: str) -> dict:
         "engine": "google_scholar_author",
         "author_id": scholar_id,
         "api_key": api_key,
-        # "location": "Malaysia"  # 您可以换成任何在Playground测试有效的地点
-        "hl": "en"
+        "location": "Malaysia"  # 您可以换成任何在Playground测试有效的地点
+        # "hl": "en"
     }
     response = requests.get("https://serpapi.com/search.json", params=params)
 
