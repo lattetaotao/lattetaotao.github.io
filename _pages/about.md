@@ -26,7 +26,7 @@ My research interests include:
 
 
 # 🎓 Education
-- *2023.03 - May 2026*&ensp;Ph.D. in Mechanical Engineering at Universiti Malaya, Kuala Lumpur, Malaysia. <a href="https://engine.um.edu.my/about-mechanical-engineering"><img class="svg" src="/images/UM.png" width="16pt"></a>
+- *2023.03 - 2026.07*&ensp;Ph.D. in Mechanical Engineering at Universiti Malaya, Kuala Lumpur, Malaysia. <a href="https://engine.um.edu.my/about-mechanical-engineering"><img class="svg" src="/images/UM.png" width="16pt"></a>
 - *2019.09 - 2022.06*&ensp;M.Sc. in School of Mechanical Science and Engineering of Northeast Petroleum University, Daqing, China. <a href="https://jxkxygcxy.nepu.edu.cn/"><img class="svg" src="/images/NEPU.png" width="16pt"></a>
 
 [//]: # (- *2012.09 - 2016.06*&ensp;B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> )
@@ -36,42 +36,6 @@ My research interests include:
 
 <h3 align="center">Selected Publications</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/EnSeqInfo.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0952197625007602">
-            <papertitle> An enhanced generative adversarial network for longer vibration time data generation under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
-        </a>
-        <br>
-        Teng Wang, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow, <strong>Tao Wang</strong>.
-        <br>
-        <em> Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
-        <p></p>
-        <p>We propose an enhanced generative adversarial network for generating longer vibration time data to improve imbalanced bearing fault diagnosis under variable operating conditions.</p>
-    </div>
-</div>
-
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/SeqInfo.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0263224124022292#f0005">
-            <papertitle> SeqInfo-SAWGAN-GP: Adaptive feature extraction from vibration time data under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
-        </a>
-        <br>
-        Teng Wang, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow, <strong>Tao Wang</strong>.
-        <br>
-        <em> Measurement</em>, 2025 <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
-        <p></p>
-        <p>We propose SeqInfo-SAWGAN-GP, a generative model conditioned on sequence information, to enhance the diversity of synthetic time-series data under varying operating conditions and address the scarcity of fault data.</p>
-    </div>
-</div>
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
@@ -131,6 +95,42 @@ My research interests include:
           and estimates similarity distributions to achieve accurate complexity measurement, thereby enhancing diagnostic accuracy and reliability.
         </p>
 </div>
+</div>
+
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/EnSeqInfo.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0952197625007602">
+            <papertitle> An enhanced generative adversarial network for longer vibration time data generation under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
+        </a>
+        <br>
+        Teng Wang, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow, <strong>Tao Wang</strong>.
+        <br>
+        <em> Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
+        <p></p>
+        <p>We propose an enhanced generative adversarial network for generating longer vibration time data to improve imbalanced bearing fault diagnosis under variable operating conditions.</p>
+    </div>
+</div>
+
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/SeqInfo.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0263224124022292#f0005">
+            <papertitle> SeqInfo-SAWGAN-GP: Adaptive feature extraction from vibration time data under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
+        </a>
+        <br>
+        Teng Wang, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow, <strong>Tao Wang</strong>.
+        <br>
+        <em> Measurement</em>, 2025 <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
+        <p></p>
+        <p>We propose SeqInfo-SAWGAN-GP, a generative model conditioned on sequence information, to enhance the diversity of synthetic time-series data under varying operating conditions and address the scarcity of fault data.</p>
+    </div>
 </div>
 
 # 🏅 Honors and Awards
