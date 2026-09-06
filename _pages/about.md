@@ -148,13 +148,6 @@ My research interests include:
 - **Fitness**  
   Regular strength training and wellness activities.
   
-- **Badminton**  
-  Passionate about competitive badminton. Honors include:  
-  - 🥇 Champion, Postgraduate Team Tournament, Northeast Petroleum University (2021)  
-  - 🥈 Runner-up, Team Tournament, Northeast Petroleum University (2022)  
-  - 🥈 Runner-up, CCB Malaysia 2nd Badminton Tournament (2024)  
-  - 🏆 Champion, Universiti Malaya International Students Men’s Doubles (2024)
-
 
 # 💬 News
 - *Now* &ensp;&ensp;&ensp;&ensp;![Visitors](https://api.visitorbadge.io/api/visitors?path=https://lattetaotao.github.io/&label=visitors&countColor=%232ccce4&style=plastic)
