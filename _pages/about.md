@@ -16,7 +16,7 @@ I am **Tao Wang**, a Ph.D. graduate in Mechanical Engineering from Universiti Ma
 
 <!-- <a href="https://scholar.google.com/citations?user=TvivfDYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>. -->
 
-My doctoral research was supervised by <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Professor Ong Zhi Chao</a></highlight>, <highlight><a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, and <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Dr. Siow Pei Yi</a></highlight>.
+My doctoral research was supervised by <highlight><a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Professor Ong Zhi Chao</a></highlight>, and <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Dr. Siow Pei Yi</a></highlight>.
 
 I am a member of the <highlight><a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration Research (ASVR) Group</a></highlight>, Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya.
 
