@@ -13,7 +13,7 @@ redirect_from:
 I am **Tao Wang**, a Ph.D. graduate in Mechanical Engineering from Universiti Malaya. My research focuses on nonlinear time-series analysis, entropy-based feature extraction, and intelligent fault diagnosis. My work has been published in journals including <em>Mechanical Systems and Signal Processing</em>, <em>Reliability Engineering & System Safety</em>, <em>Engineering Applications of Artificial Intelligence</em>, and <em>Measurement</em>. For a complete publication list, please visit my 
 <a href="https://scholar.google.com/citations?user=TvivfDYAAAAJ&hl=en&oi=sra">
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flattetaotao%2Flattetaotao.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a> profile.
+</a>.
 
 <!-- <a href="https://scholar.google.com/citations?user=TvivfDYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>. -->
 
