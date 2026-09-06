@@ -10,7 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Tao Wang**, a Ph.D. graduate in Mechanical Engineering from Universiti Malaya. My research focuses on nonlinear time-series analysis, entropy-based feature extraction, and intelligent fault diagnosis. I have published 5+ papers; see my <a href="https://scholar.google.com/citations?user=TvivfDYAAAAJ&hl=en&oi=sra" target="_blank"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar profile</a>. My doctoral research was supervised by <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Professor Ong Zhi Chao</a></highlight>, <highlight><a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, and <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Dr. Siow Pei Yi</a></highlight>. I am a member of the <highlight><a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration Research (ASVR) Group</a></highlight>, based in the <a href="https://engine.um.edu.my/department-of-mechanical-engineering" target="_blank">Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya</a>.
+I am **Tao Wang**, a Ph.D. graduate in Mechanical Engineering from Universiti Malaya. My research focuses on nonlinear time-series analysis, entropy-based feature extraction, and intelligent fault diagnosis. My work has been published in journals including <em>Mechanical Systems and Signal Processing</em>, <em>Reliability Engineering & System Safety</em>, <em>Engineering Applications of Artificial Intelligence</em>, and <em>Measurement</em>. For a complete publication list, please visit my <a href="https://scholar.google.com/citations?user=TvivfDYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
+
+My doctoral research was supervised by <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Professor Ong Zhi Chao</a></highlight>, <highlight><a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, and <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Dr. Siow Pei Yi</a></highlight>.
+
+I am a member of the <highlight><a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration Research (ASVR) Group</a></highlight>, Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya.
 
 My research interests include:
 - Nonlinear time-series analysis
